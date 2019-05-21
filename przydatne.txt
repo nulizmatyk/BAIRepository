@@ -1,0 +1,1 @@
+SON.parse(JSON.stringify(event.getParam("recordUi"))) - doProxy
